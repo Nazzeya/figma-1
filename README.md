@@ -1,1 +1,1 @@
-# html-css-practice-with-fogma-1
+# html-css-practice-with-figma-1
